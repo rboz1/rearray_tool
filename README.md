@@ -13,6 +13,10 @@ Transferring samples from 96 to 384 well plates requires plate maps for record k
 
 *Figure showing how samples in each well are rearrayed from three 96 well microplates to a 384 well microplate*
 
+## How it works
+
+The tool takes up to four 96 well microplate plate maps, exported and input into text areas by the user. An on-click event 
+
 ## Tool Demo
 
 
