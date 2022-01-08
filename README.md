@@ -19,8 +19,6 @@ The tool takes up to four exported 96 well microplate plate maps, the user paste
 
 ## Tool Demo
 
-Sorry screen recordings are blurry!
-
 https://user-images.githubusercontent.com/63253421/148574200-7f5c7e1f-6a62-4f1d-83fd-1f0cecc46d68.mov
 
 
